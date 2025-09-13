@@ -159,7 +159,6 @@ Example: To switch from OpenAI to Gemini:
 - **Full Tutorial**: [How to Add AI Chat to Unity](https://www.angry-shark-studio.com/blog/what-are-llms-ai-explained-game-developers)
 - **Video Tutorial**: [YouTube - Coming Soon]
 - **Blog**: [Angry Shark Studio Blog](https://www.angry-shark-studio.com/blog)
-- **Contact**: hello@angry-shark-studio.com
 
 ## Contributing
 
