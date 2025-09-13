@@ -1,0 +1,25 @@
+{
+  "activeProvider": "openai",
+  "globalSettings": {
+    "maxTokens": 150,
+    "temperature": 0.7
+  },
+  "providers": {
+    "openai": {
+      "apiKey": "your-openai-api-key-here",
+      "apiUrl": "https://api.openai.com/v1/chat/completions",
+      "model": "gpt-3.5-turbo"
+    },
+    "claude": {
+      "apiKey": "your-claude-api-key-here",
+      "apiUrl": "https://api.anthropic.com/v1/messages",
+      "model": "claude-3-haiku-20240307",
+      "apiVersion": "2023-06-01"
+    },
+    "gemini": {
+      "apiKey": "your-gemini-api-key-here",
+      "apiUrl": "https://generativelanguage.googleapis.com/v1/models/{model}:generateContent",
+      "model": "gemini-1.5-flash"
+    }
+  }
+}
